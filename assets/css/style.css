@@ -74,7 +74,7 @@ h2 {
     background-position: 100% 25%;
 }
 
-
+/* introduction section */
 
 #introduction-image-right {
     float: right;
@@ -88,4 +88,7 @@ h2 {
 .home-left-text {
     float: left;
     width: 33%;
+    padding-bottom: 30px;
+    clear: left;
+    margin-left: 5%;
 }
