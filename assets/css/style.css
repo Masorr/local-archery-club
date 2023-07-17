@@ -1,6 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 #logo {
     float: left;
     margin-left: 5%;
+}
+
+#logo,
+#menu {
+    line-height: 75px;
 }
 
 #menu li {
