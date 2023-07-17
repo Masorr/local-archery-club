@@ -88,3 +88,8 @@ h2 {
     clear: left;
     margin-left: 5%;
 }
+
+hr {
+    border-top: 2px solid black;
+    padding-bottom: 10px;
+}
