@@ -9,9 +9,19 @@ body {
     background-color: lightblue;
 }
 
+h1,
+h2 {
+    color: black;
+}
+
 #logo {
     float: left;
     margin-left: 5%;
+    font-size: 240%;
+}
+
+#menu {
+    font-size: 120%;
 }
 
 #logo,
@@ -27,4 +37,5 @@ body {
 
 #menu a {
     text-decoration: none;
+    color: inherit;
 }
