@@ -51,3 +51,21 @@ h2 {
 .active {
     border-bottom: 2px solid black;
 }
+
+/* hero image */
+
+/* hero-outer code taken from Love Running */
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-rdne-stock-project-6655601.jpg) no-repeat;
+    background-size: cover;
+    background-position: 100% 25%;
+}
