@@ -69,3 +69,12 @@ h2 {
     background-size: cover;
     background-position: 100% 25%;
 }
+
+#introduction {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.standard-text {
+    margin-left: 2%;
+}
