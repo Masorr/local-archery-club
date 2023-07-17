@@ -79,6 +79,7 @@ h2 {
     text-align: center;
 }
 
-.standard-text {
-    margin-left: 2%;
+.home-left-text {
+    float: left;
+    width: 33%;
 }
