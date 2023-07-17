@@ -9,6 +9,8 @@ body {
     background-color: lightblue;
 }
 
+/* headings and logo */
+
 h1,
 h2 {
     color: black;
@@ -19,6 +21,8 @@ h2 {
     margin-left: 5%;
     font-size: 240%;
 }
+
+/* navigation links */
 
 #menu {
     font-size: 120%;
@@ -38,4 +42,12 @@ h2 {
 #menu a {
     text-decoration: none;
     color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid black;
+}
+
+.active {
+    border-bottom: 2px solid black;
 }
