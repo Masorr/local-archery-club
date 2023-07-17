@@ -70,6 +70,10 @@ h2 {
     background-position: 100% 25%;
 }
 
+#introduction-image-right {
+    float: right;
+}
+
 #introduction {
     margin: 20px 0;
     text-align: center;
