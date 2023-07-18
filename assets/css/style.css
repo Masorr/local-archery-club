@@ -123,3 +123,11 @@ hr {
 #time-table th, #time-table td {
     padding: 0 20px;
 }
+
+/* footer */
+
+footer li {
+    float: right;
+    margin-right: 5%;
+    list-style-type: none;
+}
