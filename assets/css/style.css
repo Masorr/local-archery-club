@@ -92,6 +92,7 @@ h2 {
 hr {
     border-top: 2px solid black;
     padding-bottom: 10px;
+    clear: both;
 }
 
 .home-middle-section {
