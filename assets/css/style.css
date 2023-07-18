@@ -102,3 +102,24 @@ hr {
 #free-day-span {
     float: right;
 }
+
+/* time table styling */
+
+#time-table {
+    clear: both;
+    width: 33%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+#time-table h3 {
+    text-align: center;
+}
+
+#time-table table {
+    margin: 0 auto;
+}
+
+#time-table th, #time-table td {
+    padding: 0 20px;
+}
