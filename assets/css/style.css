@@ -120,14 +120,43 @@ hr {
     margin: 0 auto;
 }
 
-#time-table th, #time-table td {
+#time-table th,
+#time-table td {
     padding: 0 20px;
 }
 
 /* footer */
 
-footer li {
+footer {
+    height: 100px;
+    background-color: brown;
+}
+
+#footer-links {
     float: right;
     margin-right: 5%;
     list-style-type: none;
+    padding-top: 40px;
+}
+
+#footer-links li {
+    list-style-type: none;
+    display: inline;
+    padding: 0 30px;
+}
+
+#footer-links i {
+    font-size: 160%;
+    color: lightblue;
+}
+
+#footer-contact {
+    float: left;
+    margin-left: 5%;
+    padding-top: 30px;
+}
+
+#footer-contact p {
+    color: lightblue;
+    font-size: 120%;
 }
