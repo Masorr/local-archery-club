@@ -96,7 +96,7 @@ hr {
 }
 
 .home-middle-section {
-    padding: 8vw 0;
+    height: 600px;
 }
 
 #free-day-span {
@@ -109,6 +109,7 @@ hr {
     clear: both;
     margin: 0 auto;
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 #time-table h3 {
@@ -124,7 +125,7 @@ hr {
     padding: 0 20px;
 }
 
-#time-table table + hr {
+#time-table table+hr {
     margin-top: 10px;
 }
 
