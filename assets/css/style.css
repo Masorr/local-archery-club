@@ -76,7 +76,7 @@ h2 {
     float: right;
 }
 
-#introduction {
+.introduction {
     margin: 20px 0;
     text-align: center;
 }
