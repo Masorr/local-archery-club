@@ -41,3 +41,14 @@ Brown color is chosen to give a natural and "woody" feeling.
 - all icons are taken from fontawesome
 
 - all images are taken from pexels.com
+
+
+
+
+code for styling with flex display for centering images on about page
+
+https://blog.hubspot.com/website/center-an-image-in-html
+
+the flex-wrap wrap came from 
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
