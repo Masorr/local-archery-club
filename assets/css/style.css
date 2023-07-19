@@ -91,7 +91,7 @@ h2 {
 
 hr {
     border-top: 2px solid black;
-    padding-bottom: 10px;
+    margin-bottom: 10px;
     clear: both;
 }
 
@@ -107,7 +107,6 @@ hr {
 
 #time-table {
     clear: both;
-    width: 33%;
     margin: 0 auto;
     padding-top: 100px;
 }
@@ -123,6 +122,10 @@ hr {
 #time-table th,
 #time-table td {
     padding: 0 20px;
+}
+
+#time-table table + hr {
+    margin-top: 10px;
 }
 
 /* footer */
@@ -159,4 +162,13 @@ footer {
 #footer-contact p {
     color: lightblue;
     font-size: 120%;
+}
+
+/* media query */
+
+@media screen and (max-width: 916px) {
+    #hero-image {
+        background-size: contain;
+    }
+
 }
