@@ -62,3 +62,6 @@ form and css in contact was taken from Love Running project. Some attributes and
 
 prevent text area resizing comes from
 https://stackoverflow.com/questions/6340545/how-to-remove-resize-option-present-at-the-bottom-right-corner-of-the-textarea
+
+bug
+Send button on form only is clickable on Send! text instead of the whole button
