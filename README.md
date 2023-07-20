@@ -56,3 +56,9 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 credits
 form and css in contact was taken from Love Running project. Some attributes and elements have been changed but it has been used as the template.
+
+
+
+
+prevent text area resizing comes from
+https://stackoverflow.com/questions/6340545/how-to-remove-resize-option-present-at-the-bottom-right-corner-of-the-textarea
