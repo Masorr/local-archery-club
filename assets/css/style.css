@@ -288,3 +288,26 @@ footer {
     }
 
 }
+
+@media screen and (max-width: 645px) {
+    #menu {
+        clear: left;
+        margin-left: 5%;
+    }
+
+    #menu li {
+        float: left;
+    }
+
+    footer {
+        height: 200px;
+        background-color: brown;
+    }
+
+    #footer-links {
+        clear: left;
+        float: left;
+        list-style-type: none;
+        padding-top: 40px;
+    }
+}
