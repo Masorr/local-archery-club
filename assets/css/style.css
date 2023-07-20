@@ -275,6 +275,16 @@ footer {
 @media screen and (max-width: 916px) {
     #hero-image {
         background-size: contain;
+        height: 67vw;
+    }
+
+    #about-image {
+        background-size: cover;
+        height: 67vw;
+    }
+
+    #hero-outer {
+        height: 67vw;
     }
 
 }
