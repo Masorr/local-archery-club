@@ -54,5 +54,5 @@ the flex-wrap wrap came from
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
-
-The form section and its CSS in contact.html was taken from Love Running project. Attributes and some elements have been changed but it has been used as the template.
+credits
+form and css in contact was taken from Love Running project. Some attributes and elements have been changed but it has been used as the template.
