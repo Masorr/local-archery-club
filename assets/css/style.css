@@ -256,7 +256,14 @@ footer {
     color: brown;
 }
 
+/* confirmation */
 
+#confirmation {
+    font-size: 300%;
+    text-align: center;
+    padding: 100px 0;
+    color: brown;
+}
 
 
 /* media query */
