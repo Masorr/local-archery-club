@@ -307,7 +307,5 @@ footer {
     #footer-links {
         clear: left;
         float: left;
-        list-style-type: none;
-        padding-top: 40px;
     }
 }

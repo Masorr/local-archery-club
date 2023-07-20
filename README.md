@@ -65,3 +65,5 @@ https://stackoverflow.com/questions/6340545/how-to-remove-resize-option-present-
 
 bug
 Send button on form only is clickable on Send! text instead of the whole button
+
+media screen when max-width go below 645px, menu jumps down below logo. However the menu is reversed, beginning with contact about home instead of home about contact
