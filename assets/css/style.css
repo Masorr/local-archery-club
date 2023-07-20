@@ -191,6 +191,14 @@ footer {
     background-size: cover;
 }
 
+#about-media {
+    clear: both;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 80px 0;
+}
+
 /* form style, code from Love Running */
 
 .form-section {
