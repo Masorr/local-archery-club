@@ -42,23 +42,16 @@ Brown color is chosen to give a natural and "woody" feeling.
 
 - all images are taken from pexels.com
 
-
-
-
 code for styling with flex display for centering images on about page
 
 https://blog.hubspot.com/website/center-an-image-in-html
 
-the flex-wrap wrap came from 
+the flex-wrap wrap came from
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-
 credits
 form and css in contact was taken from Love Running project. Some attributes and elements have been changed but it has been used as the template.
-
-
-
 
 prevent text area resizing comes from
 https://stackoverflow.com/questions/6340545/how-to-remove-resize-option-present-at-the-bottom-right-corner-of-the-textarea
@@ -66,6 +59,6 @@ https://stackoverflow.com/questions/6340545/how-to-remove-resize-option-present-
 bug
 Send button on form only is clickable on Send! text instead of the whole button
 
-media screen when max-width go below 645px, menu jumps down below logo. However the menu is reversed, beginning with contact about home instead of home about contact.
+media screen when max-width go below 760px, menu jumps down below logo. However the menu is reversed, beginning with contact about home instead of home about contact.
 
 Bug is fixed when using px instead of % in width for paddings and margins.
