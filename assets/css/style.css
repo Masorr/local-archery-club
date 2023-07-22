@@ -26,6 +26,7 @@ h2 {
 
 #menu {
     font-size: 120%;
+    margin-right: 5%;
 }
 
 #logo,
@@ -35,7 +36,7 @@ h2 {
 
 #menu li {
     float: right;
-    margin-right: 5%;
+    padding: 0 30px;
     list-style-type: none;
 }
 
@@ -300,13 +301,9 @@ footer {
 
 }
 
-@media screen and (max-width: 645px) {
+@media screen and (max-width: 760px) {
     #menu {
         clear: left;
-        margin-left: 5%;
-    }
-
-    #menu li {
         float: left;
     }
 
