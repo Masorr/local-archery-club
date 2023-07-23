@@ -352,6 +352,7 @@ footer {
     #introduction-image-right {
         clear: both;
         float: initial;
+        padding-bottom: 30px;
     }
 
     #introduction-image-right img {
@@ -369,3 +370,12 @@ footer {
     }
 
 }
+
+@media screen and (max-width: 360px) {
+    #menu li {
+        padding: 0 15px;
+    }
+
+    #footer-links li {
+        padding: 0 15px;
+    }
