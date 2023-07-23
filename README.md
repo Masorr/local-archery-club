@@ -77,6 +77,11 @@ Brown color is chosen to give a natural and "woody" feeling.
 
 ## Testing
 
+| Action                                                                                                                             | Expected Behaviour                                         | Pass/Fail    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
+| Click on logo, click on each of links in menu (home, about, contact). On all four html pages (index, about, contact, confirmation) | Links works correctly and the user is brought to each page | pass         |
+| Content Cell                                                                                                                       | Content Cell                                               | Content Cell |
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
