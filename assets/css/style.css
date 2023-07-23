@@ -209,7 +209,7 @@ footer {
 
 .form-section {
     clear: left;
-    height: 600px;
+
 }
 
 .signup-form {
@@ -321,4 +321,16 @@ footer {
         clear: left;
         float: left;
     }
+
+    .home-left-text {
+        width: 90%;
+        clear: both;
+        float: none;
+        margin-right: 5%;
+    }
+
+    .signup-form {
+        width: initial;
+    }
+
 }
