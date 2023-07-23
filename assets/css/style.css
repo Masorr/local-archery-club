@@ -205,6 +205,22 @@ footer {
     padding: 50px 0 80px 0;
 }
 
+#about-media p {
+    padding: 0 5%;
+    text-align: center;
+}
+
+#about-media i {
+    padding-top: 10%;
+    font-size: 400%;
+    color: brown;
+}
+
+#about-media i:hover {
+    font-size: 600%;
+    border-bottom: 2px solid brown;
+}
+
 /* form style, code from Love Running */
 
 .form-section {
@@ -331,6 +347,25 @@ footer {
 
     .signup-form {
         width: initial;
+    }
+
+    #introduction-image-right {
+        clear: both;
+        float: initial;
+    }
+
+    #introduction-image-right img {
+        width: 100%;
+    }
+
+    #about-media {
+        clear: both;
+        float: initial;
+    }
+
+    #about-media img {
+        float: right;
+        width: 50%;
     }
 
 }
