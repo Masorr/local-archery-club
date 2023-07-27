@@ -182,17 +182,16 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 - All images were taken from pexels.com https://www.pexels.com/
   - images by Mikhail Nilov https://www.pexels.com/@mikhail-nilov/
-    - file:///workspaces/local-archery-club/assets/images/pexels-mikhail-nilov-6620781.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-mikhail-nilov-6620778.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-mikhail-nilov-6620465.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-mikhail-nilov-6620459.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-mikhail-nilov-6620340.jpg
-    - file:///workspaces/local-archery-club/README.md
+    - file:///workspaces/local-archery-club/assets/images/pex-mn-young-male.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-mn-wheelchair-archer.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-mn-wheelchair-archer-smile.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-mn-instructor.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-mn-hands.jpg
   - images by RDNE Stock project https://www.pexels.com/@rdne/
-    - file:///workspaces/local-archery-club/assets/images/pexels-rdne-stock-project-6669103.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-rdne-stock-project-6655617.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-rdne-stock-project-6655601.jpg
-    - file:///workspaces/local-archery-club/assets/images/pexels-rdne-stock-project-6655481.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-rsp-experienced-archer.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-rsp-children.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-rsp-child-and-adults.jpg
+    - file:///workspaces/local-archery-club/assets/images/pex-rsp-bows.jpg
 
 ## Other General Project Advice
 
