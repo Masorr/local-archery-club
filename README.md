@@ -5,7 +5,7 @@ The club, its number, address and info are made up and the images are taken from
 
 # Local Archery Club
 
-Local Archery Club is a website for people who love archery, meant for both first-timers and regular practicioners in Uppland, Sweden. The site is targeted towards archers who want a location to practice, socialice and have access to instructors at scheduled times.
+Local Archery Club is a website for people who love archery, meant for both first-timers and regular practicioners in Uppland, Sweden. The site is targeted towards archers who want a location to practice, socialize and have access to instructors at scheduled times.
 
 ![Responsive Mockup](documentation/media-size.jpg)
 
