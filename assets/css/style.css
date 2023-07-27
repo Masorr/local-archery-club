@@ -71,7 +71,7 @@ h2 {
     background-position: 100% 25%;
 }
 
-#about-image {
+#about-landing-image {
     height: 600px;
     width: 100%;
     background: url(../images/pex-mn-hands.jpg) no-repeat;
@@ -315,7 +315,7 @@ footer {
         height: 67vw;
     }
 
-    #about-image {
+    #about-landing-image {
         background-size: cover;
         height: 67vw;
     }
