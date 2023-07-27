@@ -1,7 +1,7 @@
 [View the site live here!](https://masorr.github.io/local-archery-club/)
 
 This site is not a real club.
-The club, its number, address and info are made up and the images are taken from www.pexels.com
+The club, its number, address and info are made up and the images are taken from https://www.pexels.com/
 
 # Local Archery Club
 
@@ -142,9 +142,9 @@ Local Archery Club is a website for people who love archery, meant for both firs
 
 ### Media
 
-- Tested on Microsoft Edge, Mozilla Firefox and Chrome
+- Tested on Microsoft Edge, Mozilla Firefox and Chrome.
 - Chrome development tools were used through the process of checking and configuring responsiveness. Adjustments were made accordingly.
-- Tested on https://ui.dev/amiresponsive?url=https://masorr.github.io/local-archery-club/
+- Screen media mockup tested on https://ui.dev/amiresponsive?url=https://masorr.github.io/local-archery-club/
 - Tested by changing sizes on browser tabs.
 - Tested on desktop, laptop and mobile.
 
@@ -169,11 +169,15 @@ Local Archery Club is a website for people who love archery, meant for both firs
 ### Fixed Bugs
 
 - Media screen when max-width go below 760px, menu jumps down below logo. However the menu is reversed, beginning with contact about home instead of home about contact.
+
   - Bug was fixed when using px instead of % in width for paddings and margins.
+
+- Send button on form is clickable only on 'Send!' text instead of the whole button.
+  - Bug wasn't encounterable when checking last time. Uncertain how it was fixed.
 
 ### Unfixed Bugs
 
-- Send button on form is clickable only on 'Send!' text instead of the whole button.
+- There are no known unfixed bugs.
 
 ## Deployment
 
@@ -192,7 +196,7 @@ Link to live site - https://masorr.github.io/local-archery-club/
 - HTML, CSS, layout, structuring and understanding of concepts was made with the help by the course material from Code Institute and inspired particularly by the Love Running project.
 - HTML form and CSS for the form in contact was taken from Love Running project at the Code Institute program. Some attributes and elements have been changed but it has been used as the template.
 - All icons were taken from https://fontawesome.com/
-- In CSS the code concept for styling with flex display 'display: flex' and 'justify-content: center' for centering images on about page https://blog.hubspot.com/website/center-an-image-in-html
+- In CSS the code concept for styling with flex display 'display: flex' and 'justify-content: center' for centering images on about page came from https://blog.hubspot.com/website/center-an-image-in-html
 - In CSS the 'flex-wrap: flex' came from https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - README template was copied from Love Running Project given by Code Institute.
 
@@ -213,5 +217,5 @@ Link to live site - https://masorr.github.io/local-archery-club/
 
 ## Thanks
 
-- I want to thank Code Institute and their tutors for their program and giving me the opportunity to also navigate and learn by myself by coding this webpage.
+- I want to thank Code Institute and their tutors for their program and lessons, and giving me the opportunity to navigate and learn by myself by coding this webpage.
 - I want to thank the Slack community and my mentor Dick Vlaanderen for feedback and inputs.
