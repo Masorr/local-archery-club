@@ -189,6 +189,12 @@ Local Archery Club is a website for people who love archery, meant for both firs
 
 Link to live site - https://masorr.github.io/local-archery-club/
 
+- Cloning the Repository:
+  - On the repository page, click the 'Code' box.
+  - Pick local then HTTPS and copy the link that is shown, which is: https://github.com/Masorr/local-archery-club.git
+  - Open the terminal in your code editor and specify the directory you want to have your clone.
+  - Type 'git clone' into your terminal and paste the link https://github.com/Masorr/local-archery-club.git and hit enter.
+
 ## Credits
 
 ### Content
