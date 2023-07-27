@@ -11,8 +11,6 @@ Local Archery Club is a website for people who love archery, meant for both firs
 
 ## Features
 
----
-
 ### Existing Features
 
 - **Navigation Bar**
@@ -86,10 +84,9 @@ Local Archery Club is a website for people who love archery, meant for both firs
 ### Features Left to Implement
 
 - Add change language button next to logo. Since the page is meant to be a local club in sweden, original language should be swedish. Should be a simple button showing the flag of the country to inform which language the site is currently on.
+- **Reasons**: Lack of time.
 
 ## Design
-
----
 
 - **Wireframes**
 
@@ -115,7 +112,6 @@ Local Archery Club is a website for people who love archery, meant for both firs
     - **Reasons**: Suggested by mentor. Adds more information for what the club is about, and makes the page more attractive.
 
   - Contact page
-
     - Removed payments and questions paragraph between form and logo.
     - **Reasons**: Suggested by mentor. Not needed.
 
@@ -126,8 +122,6 @@ Local Archery Club is a website for people who love archery, meant for both firs
 
 ## Testing
 
----
-
 ### Manual Testing
 
 ![Testing](documentation/tests.png)
@@ -135,15 +129,42 @@ Local Archery Club is a website for people who love archery, meant for both firs
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors or warnings were returned on any of the html pages when passing through the html validator: https://validator.w3.org/#validate_by_input
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+  - No errors were found when passing through the css validator: https://jigsaw.w3.org/css-validator/
+
+- HTML validator results for index.html, about.html, contact.html and confirmation.html
+  ![HTML validation](documentation/validatehtml.jpg)
+
+- CSS validator result for style.css
+  ![CSS validation](documentation/validatecss.jpg)
 
 ### Media
 
-tested on microsoft edge, mozilla firefox and chrome
+- Tested on Microsoft Edge, Mozilla Firefox and Chrome
+- Chrome development tools were used through the process of checking and configuring responsiveness. Adjustments were made accordingly.
+- Tested on https://ui.dev/amiresponsive?url=https://masorr.github.io/local-archery-club/
+- Tested by changing sizes on browser tabs.
+- Tested on desktop, laptop and mobile.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Lighthouse Testing
+
+- Home page
+
+  ![Lighthouse home page](documentation/lighthouse-home.jpg)
+
+- About page
+
+  ![Lighthouse about page](documentation/lighthouse-about.jpg)
+
+- Contact page
+
+  ![Lighthouse contact page](documentation/lighthouse-contact.jpg)
+
+- Confirmation page
+
+  ![Lighthouse confirmation page](documentation/lighthouse-confirmation.jpg)
 
 ### Fixed Bugs
 
@@ -156,16 +177,13 @@ In addition, you should mention in this section how your project looks and works
 
 ## Deployment
 
----
+- The site was deployed to GitHub pages through following steps:
+  - On the repository page, go to 'Settings' in navbar. https://github.com/Masorr/local-archery-club --> https://github.com/Masorr/local-archery-club/settings
+  - In settings go to 'Pages' under 'Code and automation' on the left. https://github.com/Masorr/local-archery-club/settings/pages
+  - Select main branch and hit 'Save'.
+  - Refresh page and hit 'Visit site' on the new 'Your site is live at' box to view the successful deployment.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+Link to live site - https://masorr.github.io/local-archery-club/
 
 ## Credits
 
@@ -173,9 +191,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 - HTML, CSS, layout, structuring and understanding of concepts was made with the help by the course material from Code Institute and inspired particularly by the Love Running project.
 - HTML form and CSS for the form in contact was taken from Love Running project at the Code Institute program. Some attributes and elements have been changed but it has been used as the template.
-- All icons were taken from fontawesome.
-- Code for styling with flex display for centering images on about page https://blog.hubspot.com/website/center-an-image-in-html
-- The flex-wrap wrap came from https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- All icons were taken from https://fontawesome.com/
+- In CSS the code concept for styling with flex display 'display: flex' and 'justify-content: center' for centering images on about page https://blog.hubspot.com/website/center-an-image-in-html
+- In CSS the 'flex-wrap: flex' came from https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - README template was copied from Love Running Project given by Code Institute.
 
 ### Media
@@ -193,23 +211,7 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
     - file:///workspaces/local-archery-club/assets/images/pex-rsp-child-and-adults.jpg
     - file:///workspaces/local-archery-club/assets/images/pex-rsp-bows.jpg
 
-## Other General Project Advice
+## Thanks
 
----
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
-
-  - Make sure to keep the messages in the imperative mood
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
+- I want to thank Code Institute and their tutors for their program and giving me the opportunity to also navigate and learn by myself by coding this webpage.
+- I want to thank the Slack community and my mentor Dick Vlaanderen for feedback and inputs.
