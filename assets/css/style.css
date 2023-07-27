@@ -9,6 +9,12 @@ body {
     background-color: lightblue;
 }
 
+hr {
+    border-top: 2px solid black;
+    margin-bottom: 10px;
+    clear: both;
+}
+
 /* headings and logo */
 
 h1,
@@ -53,7 +59,7 @@ h2 {
     border-bottom: 2px solid black;
 }
 
-/* hero image */
+/* hero image + about landing page image */
 
 /* hero-outer code taken from Love Running */
 #hero-outer {
@@ -79,7 +85,7 @@ h2 {
     background-position: 100% 50%;
 }
 
-/* introduction section */
+/* sections for home and about page */
 
 #introduction-image-right {
     float: right;
@@ -96,12 +102,6 @@ h2 {
     padding-bottom: 30px;
     clear: left;
     margin-left: 5%;
-}
-
-hr {
-    border-top: 2px solid black;
-    margin-bottom: 10px;
-    clear: both;
 }
 
 /* Might Remove since it seems redundant, even causing the about page experience errors
