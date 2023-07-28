@@ -363,13 +363,7 @@ footer {
         width: 100%;
     }
 
-    #about-media {
-        clear: both;
-        float: initial;
-    }
-
     #about-media img {
-        float: right;
         width: 50%;
     }
 
