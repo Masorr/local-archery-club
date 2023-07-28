@@ -26,14 +26,14 @@ Local Archery Club is a website for people who love archery, meant for both firs
 
 ![Landing Page](documentation/heroimage.jpg)
 
-- **Middle Sections**
+- **Home Sections**
 
-  - The first part of the middle section explains core information. Beginning with that everyone is welcome.
+  - The first part of the home sections explains core information. Beginning with that everyone is welcome.
   - The second image shows a young adult. Meant to reinforce that the club is also meant for adults.
-  - Latter part of the middle section explains other core information. Beginning with information about newcomers. Then explaining what isn't allowed in the club and what it's meant for. Then finally showing pricing information.
+  - Latter part of the home sections explains other core information. Beginning with information about newcomers. Then explaining what isn't allowed in the club and what it's meant for. Then finally showing pricing information.
   - The information is meant to be kept short and simple together with an accompanying image for easy reading.
 
-![Middle sections](documentation/middle-sections.jpg)
+![Home sections](documentation/home-sections.jpg)
 
 - **Times Table Section**
 
@@ -118,7 +118,7 @@ Local Archery Club is a website for people who love archery, meant for both firs
 - **Colours**
 
   - Lightblue background is chosen because it is a relaxing/cool colour. Meant to instill calmness and evoking a "freedom of outdoors skyview" feeling.
-  - Brown color is chosen to give a natural and "woody" feeling.
+  - Brown colour is chosen to give a natural and "woody" feeling.
 
 ## Testing
 
