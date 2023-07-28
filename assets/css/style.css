@@ -96,7 +96,7 @@ h2 {
     text-align: center;
 }
 
-.home-left-text {
+.float-left-text {
     float: left;
     width: 33%;
     padding-bottom: 30px;
@@ -342,7 +342,7 @@ footer {
         float: left;
     }
 
-    .home-left-text {
+    .float-left-text {
         width: 90%;
         clear: both;
         float: none;
